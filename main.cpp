@@ -1,6 +1,5 @@
 #include "myfunctions.h"
-#include <iostream>
-using namespace std;
+
 int main(){
     int userInt = getUserInput();
     cout<<"The User Entered: "<<userInt<<endl; 
